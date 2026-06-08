@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.*
+*.log
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+uploads/
+backups/
+*.sqlite
+*.db
+Nouveau document texte.txt
+stitch_kci_soozey_strategy_hub/
