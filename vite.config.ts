@@ -1,9 +1,11 @@
+import { defineConfig } from 'vite'
+
 export default defineConfig({
   server: {
-    host: "0.0.0.0",
+    host: '0.0.0.0',
     allowedHosts: [
-      "soozey.com",
-      "www.soozey.com"
+      'soozey.com',
+      'www.soozey.com'
     ]
   }
 })
